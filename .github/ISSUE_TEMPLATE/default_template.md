@@ -1,5 +1,6 @@
 ---
 name: "Default issue template"
+about: "Default issue template"
 ---
 
 <!-- Thanks in advance for contributing to this repository! This text will be hidden from your issue and serves as a guide to you when creating an issue.
