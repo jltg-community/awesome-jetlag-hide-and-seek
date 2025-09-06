@@ -78,8 +78,6 @@ The [European continent](https://en.wikipedia.org/wiki/Europe), not to be confus
 
 #### The Netherlands
 
-[The Netherlands](https://en.wikipedia.org/wiki/Netherlands) (NL, Nederland, 'Holland'). 
-
  - [9292.nl](https://9292.nl/en/) - travel planner for the entire country, including Train, Bus, Tram and more
  - [Overview of operators](https://9292.nl/en/public-transport-operators/) - overview of the different companies operating (parts of) the public transport system
  - [NS Day Ticket](https://www.ns.nl/en/tickets/day-ticket) - unlimited train travel for a single day. Also valid for other rail companies in the Netherlands, for example Arriva and Breng.
@@ -101,6 +99,12 @@ The [European continent](https://en.wikipedia.org/wiki/Europe), not to be confus
     - [Various other day tickets for more specific regions](https://www.connexxion.nl/nl/shop?types=%5B%22Dagkaart%22%5D&concessions=&ageGroups=%5B%22Volwassenen+en+jongeren+12%2B%22%5D) - Amsterdam, Rotterdam, Den Haag (The Hague), Zeeland, other parts of Noord-Holland
 
 
+#### United Kingdom
+
+ - Regional day passes:
+    - [Roundabout ticket for the Glasgow area](https://www.spt.co.uk/tickets/day-tickets/roundabout/) - valid for the Subway and all ScotRail train services
+
+
 ## Community Created Maps and Reports
 
 A collection of custom maps, experience reports, and even some videos of community members playing the Home Game.
@@ -111,13 +115,22 @@ A collection of custom maps, experience reports, and even some videos of communi
 
 #### Germany
 
- - [Video: Hide and Seek on Public Transit (Stuttgart, Germany)](https://www.youtube.com/watch?v=2ttV9OdFGgo)
+ - [Video: Hide and Seek on Public Transit (Stuttgart)](https://www.youtube.com/watch?v=2ttV9OdFGgo)
 
 
 #### The Netherlands
 
  - [Video: Hide and Seek across the Netherlands](https://www.youtube.com/watch?v=if1cmHfKTUU&list=PL7g7kSXGAG160wDX5U66TYK6lPzhClm4d&index=1)
 
+
+#### Switzerland
+
+ - [We played the Home Game – Hide and Seek in Switzerland](https://www.reddit.com/r/JetLagTheGame/comments/1l8n76i/we_played_the_home_game_hide_and_seek_in/)
+
+
+#### United Kingdom
+
+ - [HomeGame experience playing Hide and Seek Glasgow, UK](https://www.reddit.com/r/JetLagTheGame/comments/1m5vafe/homegame_experience_playing_hide_and_seek_glasgow/) - map and report
 
 
 ### North America
