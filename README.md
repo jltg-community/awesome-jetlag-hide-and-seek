@@ -111,12 +111,12 @@ A collection of custom maps, experience reports, and even some videos of communi
 
 #### Germany
 
- - [Hide and Seek on Public Transit (Stuttgart, Germany)](https://www.youtube.com/watch?v=2ttV9OdFGgo)
+ - [Video: Hide and Seek on Public Transit (Stuttgart, Germany)](https://www.youtube.com/watch?v=2ttV9OdFGgo)
 
 
 #### The Netherlands
 
- - [Hide and Seek across the Netherlands](https://www.youtube.com/watch?v=if1cmHfKTUU&list=PL7g7kSXGAG160wDX5U66TYK6lPzhClm4d&index=1)
+ - [Video: Hide and Seek across the Netherlands](https://www.youtube.com/watch?v=if1cmHfKTUU&list=PL7g7kSXGAG160wDX5U66TYK6lPzhClm4d&index=1)
 
 
 
@@ -124,7 +124,7 @@ A collection of custom maps, experience reports, and even some videos of communi
 
 #### Canada
 
- - [Hide and Seek Across Toronto](https://www.youtube.com/watch?v=zcjx_iC73xY)
+ - [Video: Hide and Seek Across Toronto](https://www.youtube.com/watch?v=zcjx_iC73xY)
 
 
 #### United States
