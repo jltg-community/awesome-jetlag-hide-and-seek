@@ -36,7 +36,7 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
  - [Jet Lag: The Discord](https://discord.gg/jetlag) on Discord
  - [Jet Lag: The Wiki](https://jetlag.fandom.com/wiki/Jet_Lag:_The_Wiki) on Fandom
  - [Jet Lag: The Space](https://matrix.to/#/#jetlagthegame:matrix.org) on Matrix
- - [Jet Lag: The Maps](https://maps.jetlag.games/) - community-driven website with collections of user created game maps
+ - [Jet Lag: The Maps](https://maps.jetlag.games/) - Community-driven website with collections of user created game maps
 
 
 ## Tools and Utilities
@@ -46,9 +46,9 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
  - [Google My Maps](https://mymaps.google.com/) - Tools to create overlays on Google Maps. Output can be [used with the regular Google Maps apps](https://support.google.com/maps/answer/3045850?hl=en&co=GENIE.Platform%3DAndroid&oco=0).
  - [QGIS](https://qgis.org/) - Open source software to create maps and visualize map data.
      - [Guide on creating maps with QGIS](https://julweb.dev/blog/create-your-own-jetlag-map-with-qgis) ([copy on archive.is](https://archive.is/B479b))
- - [Jet Lag Companion](https://jetlag.vergenz.info/) - export transit stations as KML for usage with other mapping tools
+ - [Jet Lag Companion](https://jetlag.vergenz.info/) - Export transit stations as KML for usage with other mapping tools
  - [Jet Lag The Game: Hide and Seek Map Generator](https://taibeled.github.io/JetLagHideAndSeek/) - A tool to trivially generate interactive maps for viewing hiding possibilities in Jet Lag The Game's Hide and Seek. Can also help with mapping based questions, such as radius, thermometers and tentacles. [Source code](https://github.com/taibeled/JetLagHideAndSeek) available on GitHub under MIT license.
- - [FreeMapTools](https://www.freemaptools.com) - collection of small tools for mapping purposes. The "Radius Around Point" tool is very useful and can be exported as KML for usage with other mapping tools.
+ - [FreeMapTools](https://www.freemaptools.com) - Collection of small tools for mapping purposes. The "Radius Around Point" tool is very useful and can be exported as KML for usage with other mapping tools.
 
 
 ### Location sharing
@@ -78,31 +78,31 @@ The [European continent](https://en.wikipedia.org/wiki/Europe), not to be confus
 
 #### The Netherlands
 
- - [9292.nl](https://9292.nl/en/) - travel planner for the entire country, including Train, Bus, Tram and more
- - [Overview of operators](https://9292.nl/en/public-transport-operators/) - overview of the different companies operating (parts of) the public transport system
- - [NS Day Ticket](https://www.ns.nl/en/tickets/day-ticket) - unlimited train travel for a single day. Also valid for other rail companies in the Netherlands, for example Arriva and Breng.
+ - [9292.nl](https://9292.nl/en/) - Travel planner for the entire country, including Train, Bus, Tram and more
+ - [Overview of operators](https://9292.nl/en/public-transport-operators/) - Overview of the different companies operating (parts of) the public transport system
+ - [NS Day Ticket](https://www.ns.nl/en/tickets/day-ticket) - Unlimited train travel for a single day. Also valid for other rail companies in the Netherlands, for example Arriva and Breng.
 
  - Payment options:
-    - [OVpay](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card) - on-demand contactless payments using regular credit/debit cards (usage of the 'OVpay' smartphone app is not mandatory)
-    - [OV-chipkaart](https://www.ov-chipkaart.nl/) - legacy contactless payment system (not recommended)
+    - [OVpay](https://www.ns.nl/en/travel-information/check-in-check-out/debit-card) - On-demand contactless payments using regular credit/debit cards (usage of the 'OVpay' smartphone app is not mandatory)
+    - [OV-chipkaart](https://www.ov-chipkaart.nl/) - Legacy contactless payment system (not recommended)
     - If you get a single journey ticket with a QR code, you can open the payment barriers by presenting the QR code. If you run into issues, temporarily disable NFC / 'Tap to Pay' when scanning the QR code from your smartphone.
 
  - Regional day passes:
     - [Buses in Fryslân](https://fryslan.qbuzz.nl/dalendagkaarten)
     - [Regional trains in Fryslân and Groningen](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Frysl%C3%A2n)
     - [Buses in Groningen and Drenthe](https://gd.qbuzz.nl/abonnementen-kaartjes/product-details/UFJPRFVDVF9UWVBFOjExMQ/dal-dagkaart)
-    - [Buses in Gelderland and Overijssel](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Gelderland) - also usable in Flevoland, apart from Almere and Lelystad
+    - [Buses in Gelderland and Overijssel](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Gelderland) - Also usable in Flevoland, apart from Almere and Lelystad
     - [Buses in Noord-Brabant](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Noord-Brabant)
     - [Buses and/or trains in Limburg](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Limburg)
-    - [Day ticket for Amsterdam (and surrounding region)](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket) - bus, tram, metro
-    - [Tourist Day Ticket for the Rotterdam/The Hague area](https://touristdaytickets.com/ticket/tourist-day-ticket/) - bus, tram, metro and waterbus
+    - [Day ticket for Amsterdam (and surrounding region)](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket) - Bus, tram, metro
+    - [Tourist Day Ticket for the Rotterdam/The Hague area](https://touristdaytickets.com/ticket/tourist-day-ticket/) - Bus, tram, metro and waterbus
     - [Various other day tickets for more specific regions](https://www.connexxion.nl/nl/shop?types=%5B%22Dagkaart%22%5D&concessions=&ageGroups=%5B%22Volwassenen+en+jongeren+12%2B%22%5D) - Amsterdam, Rotterdam, Den Haag (The Hague), Zeeland, other parts of Noord-Holland
 
 
 #### United Kingdom
 
  - Regional day passes:
-    - [Roundabout ticket for the Glasgow area](https://www.spt.co.uk/tickets/day-tickets/roundabout/) - valid for the Subway and all ScotRail train services
+    - [Roundabout ticket for the Glasgow area](https://www.spt.co.uk/tickets/day-tickets/roundabout/) - Valid for the Subway and all ScotRail train services
 
 
 ## Community Created Maps and Reports
@@ -144,7 +144,7 @@ A collection of custom maps, experience reports, and even some videos of communi
 
 ##### California
 
- - [San Francisco Hide & Seek (Home Game) – Custom Map (inc. Muni Buses)](https://www.reddit.com/r/JetLagTheGame/comments/1jn1iem/san_francisco_hide_seek_home_game_custom_map_inc/) - very extensive documentation and written log included as well ([copy on archive.is](https://archive.is/FgizB))
+ - [San Francisco Hide & Seek (Home Game) – Custom Map (inc. Muni Buses)](https://www.reddit.com/r/JetLagTheGame/comments/1jn1iem/san_francisco_hide_seek_home_game_custom_map_inc/) - Very extensive documentation and written log included as well ([copy on archive.is](https://archive.is/FgizB))
 
 
 ## License
