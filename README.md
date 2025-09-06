@@ -48,6 +48,7 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
      - [Guide on creating maps with QGIS](https://julweb.dev/blog/create-your-own-jetlag-map-with-qgis) ([copy on archive.is](https://archive.is/B479b))
  - [Jet Lag Companion](https://jetlag.vergenz.info/) - export transit stations as KML for usage with other mapping tools
  - [Jet Lag The Game: Hide and Seek Map Generator](https://taibeled.github.io/JetLagHideAndSeek/) - A tool to trivially generate interactive maps for viewing hiding possibilities in Jet Lag The Game's Hide and Seek. Can also help with mapping based questions, such as radius, thermometers and tentacles. [Source code](https://github.com/taibeled/JetLagHideAndSeek) available on GitHub under MIT license.
+ - [FreeMapTools](https://www.freemaptools.com) - collection of small tools for mapping purposes. The "Radius Around Point" tool is very useful and can be exported as KML for usage with other mapping tools.
 
 
 ### Location sharing
@@ -95,7 +96,7 @@ The [European continent](https://en.wikipedia.org/wiki/Europe), not to be confus
     - [Buses in Gelderland and Overijssel](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Gelderland) - also usable in Flevoland, apart from Almere and Lelystad
     - [Buses in Noord-Brabant](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Noord-Brabant)
     - [Buses and/or trains in Limburg](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Limburg)
-    - [Day ticket for Amsterdam (and surrounding region)](https://www.gvb.nl/reisproducten/uur-en-dagkaarten/gvb-dagkaart) - bus, tram, metro
+    - [Day ticket for Amsterdam (and surrounding region)](https://www.gvb.nl/en/travel-products/hour-and-day-tickets/gvb-day-ticket) - bus, tram, metro
     - [Tourist Day Ticket for the Rotterdam/The Hague area](https://touristdaytickets.com/ticket/tourist-day-ticket/) - bus, tram, metro and waterbus
     - [Various other day tickets for more specific regions](https://www.connexxion.nl/nl/shop?types=%5B%22Dagkaart%22%5D&concessions=&ageGroups=%5B%22Volwassenen+en+jongeren+12%2B%22%5D) - Amsterdam, Rotterdam, Den Haag (The Hague), Zeeland, other parts of Noord-Holland
 
