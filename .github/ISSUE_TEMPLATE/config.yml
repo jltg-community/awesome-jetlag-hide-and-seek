@@ -1,0 +1,4 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: "Default issue template"
+    body: "./ISSUE_TEMPLATE/default_template.md"

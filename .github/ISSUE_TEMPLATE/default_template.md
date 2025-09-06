@@ -1,3 +1,7 @@
+---
+name: "Default issue template"
+---
+
 <!-- Thanks in advance for contributing to this repository! This text will be hidden from your issue and serves as a guide to you when creating an issue.
 
 When suggesting new content for the list, please make sure to add the following details:
