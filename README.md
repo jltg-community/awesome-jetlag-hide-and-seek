@@ -144,7 +144,7 @@ A collection of custom maps, experience reports, and even some videos of communi
 
 ##### California
 
- - [San Francisco](https://www.reddit.com/r/JetLagTheGame/comments/1jn1iem/san_francisco_hide_seek_home_game_custom_map_inc/) - very extensive documentation and written log included as well ([copy on archive.is](https://archive.is/FgizB))
+ - [San Francisco Hide & Seek (Home Game) – Custom Map (inc. Muni Buses)](https://www.reddit.com/r/JetLagTheGame/comments/1jn1iem/san_francisco_hide_seek_home_game_custom_map_inc/) - very extensive documentation and written log included as well ([copy on archive.is](https://archive.is/FgizB))
 
 
 ## License
