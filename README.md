@@ -16,6 +16,7 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
  - [Tools and Utilities](#tools-and-utilities)
     - [Mapping](#mapping)
     - [Location sharing](#location-sharing)
+ - [Rules that are not in the rulebook](#rules-that-are-not-in-the-rulebook)
  - [Travel information grouped by region](#travel-information-grouped-by-region)
  - [Community Created Maps and Reports](#community-created-maps-and-reports)
  - [License](#license)
@@ -49,6 +50,7 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
  - [Jet Lag Companion](https://jetlag.vergenz.info/) - Export transit stations as KML for usage with other mapping tools
  - [Jet Lag The Game: Hide and Seek Map Generator](https://taibeled.github.io/JetLagHideAndSeek/) - A tool to trivially generate interactive maps for viewing hiding possibilities in Jet Lag The Game's Hide and Seek. Can also help with mapping based questions, such as radius, thermometers and tentacles. [Source code](https://github.com/taibeled/JetLagHideAndSeek) available on GitHub under MIT license.
  - [FreeMapTools](https://www.freemaptools.com) - Collection of small tools for mapping purposes. The "Radius Around Point" tool is very useful and can be exported as KML for usage with other mapping tools.
+ - [Overpass Turbo](https://overpass-turbo.eu/) - A web based data mining tool for OpenStreetMap. Runs any kind of [Overpass API query](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) and shows the results on an interactive map. [More info and HowTo Guide](https://wiki.openstreetmap.org/wiki/Overpass_turbo).
 
 
 ### Location sharing
@@ -59,6 +61,21 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
      - [Telegram](https://telegram.org/blog/live-locations)
      - [iMessage](https://support.apple.com/guide/iphone/share-your-location-iph69b192bc2/ios)
      - Some users have reported issues with live location accuracy. Sending a single location (non-live) when asking location related questions may help with this.
+
+## Rules that are not in the rulebook
+
+Below, you can find several rules that aren't in the rulebook but are either mentioned in the show, or stated by a Jet Lag official on Reddit.
+
+- You are allowed to censor any text in photos you send the seekers.
+- If you are asked a photo question, and the seekers arrive in your hiding zone within 10/10/20 minutes of you taking the photo, you can pause the game until you are done taking the photo and can reposition to your intended final hiding spot. During a pause, the seekers can't move and the hide time clock is paused. This is to prevent the seekers from using a photo question to trap you in a suboptimal final hiding spot.
+- If you randomize a thermometer, the seekers may be unable or unwilling to do the new thermometer. In this case, the new thermometer isn't considered asked, but you still get to draw the cards.
+- Once the endgame has been triggered by the seekers being off transit in the hiding zone, the endgame stays active (and the hider can't move) until the hider is found. If the seekers enter the hiding zone without realizing and leave the zone again, the endgame still stays active. The hiders doesn't have to announce this fact unless asked a question that would require them to move.
+- When answering the station name length matching question, you must also state if your station name is longer or shorter than theirs.
+- Curse of the Right Turn only prevents you from turning left. It doesn't prevent you from walking straight at an intersection.
+
+Sources:
+
+ - [Summary by /u/CJYP](https://www.reddit.com/r/JetLagTheGame/comments/1na5mhp/comment/ncu1qa9/) - original sources unknown
 
 
 ## Travel information grouped by region
@@ -116,6 +133,7 @@ A collection of custom maps, experience reports, and even some videos of communi
 #### Germany
 
  - [Video: Hide and Seek on Public Transit (Stuttgart)](https://www.youtube.com/watch?v=2ttV9OdFGgo)
+ - [Hide+Seek Hamburg game (played, long post)](https://www.reddit.com/r/JetLagTheGame/comments/1nmenog/hideseek_hamburg_game_played_long_post/) - map and report
 
 
 #### The Netherlands
@@ -138,6 +156,7 @@ A collection of custom maps, experience reports, and even some videos of communi
 #### Canada
 
  - [Video: Hide and Seek Across Toronto](https://www.youtube.com/watch?v=zcjx_iC73xY)
+ - [Jet Lag files for Prince Rupert, BC](https://www.reddit.com/r/JetLagTheGame/comments/1na5mhp/comment/ndxczqy/)
 
 
 #### United States
