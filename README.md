@@ -45,6 +45,7 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
 ### Mapping
 
  - [Google My Maps](https://mymaps.google.com/) - Tools to create overlays on Google Maps. Output can be [used with the regular Google Maps apps](https://support.google.com/maps/answer/3045850?hl=en&co=GENIE.Platform%3DAndroid&oco=0).
+ - [uMap](https://umap.openstreetmap.de/en/) - Tool to create custom overlays based on OpenStreetMap, similar to Google My Maps. 
  - [QGIS](https://qgis.org/) - Open source software to create maps and visualize map data.
      - [Guide on creating maps with QGIS](https://julweb.dev/blog/create-your-own-jetlag-map-with-qgis) ([copy on archive.is](https://archive.is/B479b))
  - [Jet Lag Companion](https://jetlag.vergenz.info/) - Export transit stations as KML for usage with other mapping tools
@@ -56,6 +57,8 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
 ### Location sharing
 
  - [Google Maps](https://support.google.com/maps/answer/15437054?hl=en&co=GENIE.Platform%3DAndroid) - Generally recommended by the community
+ - [Glympse](https://app.glympse.com/) Location Sharing App for Android and iOS
+ - [Hauk](https://github.com/bilde2910/Hauk) - Open source and privacy-focused Location Sharing App, that can be self-hosted or used with https://hauk.live/ . (Android and iOS)
  - Various chat applications support location sharing: 
      - [WhatsApp](https://faq.whatsapp.com/480865177351335/?cms_platform=android)
      - [Telegram](https://telegram.org/blog/live-locations)
