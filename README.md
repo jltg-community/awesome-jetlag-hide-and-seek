@@ -110,7 +110,7 @@ The [European continent](https://en.wikipedia.org/wiki/Europe), not to be confus
  - Regional day passes:
     - [Buses in Fryslân](https://fryslan.qbuzz.nl/dalendagkaarten)
     - [Regional trains in Fryslân and Groningen](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Frysl%C3%A2n)
-    - [Buses in Groningen and Drenthe](https://gd.qbuzz.nl/abonnementen-kaartjes/product-details/UFJPRFVDVF9UWVBFOjExMQ/dal-dagkaart)
+    - [Buses in Groningen and Drenthe](https://webshop.gd.qbuzz.nl/webshop/reisproducten/GD_Dagkaart-Dagkaart)
     - [Buses in Gelderland and Overijssel](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Gelderland) - Also usable in Flevoland, apart from Almere and Lelystad
     - [Buses in Noord-Brabant](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Noord-Brabant)
     - [Buses and/or trains in Limburg](https://www.arriva.nl/kaartjes-abonnementen/losse-kaartjes/dagkaartje-kopen/?regio=Limburg)
