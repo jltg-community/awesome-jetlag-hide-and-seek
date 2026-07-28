@@ -65,6 +65,11 @@ _Viewing on GitHub? [Open the README.md](https://github.com/jltg-community/aweso
      - [Telegram](https://telegram.org/blog/live-locations)
      - [iMessage](https://support.apple.com/guide/iphone/share-your-location-iph69b192bc2/ios)
      - Some users have reported issues with live location accuracy. Sending a single location (non-live) when asking location related questions may help with this.
+  
+### Other
+
+ - [Worldboard: Hide & Seek](https://worldboard.games/hide-and-seek) - A virtual version of Hide and Seek that can be played without ever going outside. There's also a variant of [Tag](https://worldboard.games/tag) available. (free to play, contains ads)
+
 
 ## Rules that are not in the rulebook
 
